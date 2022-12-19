@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+main ()
+{
+cout<< "            # # # # # # # # # # # # # # # # #       "<< endl;
+cout<< "            #                               #       "<< endl;
+cout<< "            #      Cakes and Bakes          #       "<< endl;
+cout<< "            #                               #       "<< endl;
+cout<< "            # # # # # # # # # # # # # # # # #       "<< endl;
+system(" Color F5");
+}
