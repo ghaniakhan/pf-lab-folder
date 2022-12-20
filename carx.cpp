@@ -10,6 +10,7 @@ cout<< "        |                                 |                        "<< e
 cout<< "        |     @  @              @  @      |                        "<< endl;
 cout<< "        --- @     @----------- @     @ ----                        "<< endl;
 cout<< "            @  @  @             @ @ @                              "<< endl;
+system("Color C0");
 }
 
 
